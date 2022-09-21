@@ -1,0 +1,1 @@
+{"uuid":"74cb1f9a-f00c-4449-86e2-8809005cbce6","name":"finance_ua_tests.MainPageTest","children":["975ff3f2-be3e-4103-aaec-af5b85e2e80e"],"befores":[{"name":"setUpAll","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1663600403851,"stop":1663600403877}],"afters":[],"start":1663600403756,"stop":1663600435168}
