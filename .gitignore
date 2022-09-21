@@ -1,4 +1,4 @@
-# Scala IDE specific (Scala & Java development for Eclipse)
+
 .cache-main
 .scala_dependencies
 .worksheet
@@ -14,7 +14,7 @@
 # used for ADF styles caching
 temp/
 
-# default output directories
+
 classes/
 deploy/
 javadoc/
